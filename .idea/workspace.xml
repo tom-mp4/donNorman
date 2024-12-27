@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a36f24a-2985-48e1-a0cf-f553835c627a" name="Changes" comment="" />
+    <list default="true" id="5a36f24a-2985-48e1-a0cf-f553835c627a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +47,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Volumes/SSD-Externe/IUT/donNorman",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -74,6 +77,7 @@
       <workItem from="1735145425796" duration="232000" />
       <workItem from="1735145663519" duration="301000" />
       <workItem from="1735145976215" duration="777000" />
+      <workItem from="1735315655543" duration="651000" />
     </task>
     <servers />
   </component>
