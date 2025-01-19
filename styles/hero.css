@@ -1,0 +1,28 @@
+/* Hero */
+
+header {
+    width: 100vw;
+    height: 100vh;
+
+    background-image: url("../assets/image/donNorman_bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+header div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+    height: 100vh;
+    width: 60%;
+    gap: 0.8rem;
+}
+
+header div h1 {
+    text-align: center;
+    width: 60%;
+}

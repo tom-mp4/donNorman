@@ -4,6 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="styles/style.css" />
+    <link rel="stylesheet" type="text/css" href="styles/hero.css" />
+    <link rel="stylesheet" type="text/css" href="styles/biography.css" />
+    <link rel="stylesheet" type="text/css" href="styles/books.css" />
+    <link rel="stylesheet" type="text/css" href="styles/contact.css" />
+    <link rel="stylesheet" type="text/css" href="styles/footer.css" />
     <title>Document</title>
 </head>
 <body>
@@ -14,25 +19,72 @@
           </a>
       </div>
       <div class="navbar-menu">
-          <a class="button" href="/">
+          <a class="button" href="index.html">
               Accueil
           </a>
-          <a class="button" href="/projects">
-              Nos Projets
+          <a class="button" href="biography.html">
+              Biographie
           </a>
-          <a class="button" href="/conseillers">
-              Les Conseillers
+          <a href="#contact" class="button">
+              Contact
           </a>
-          <a class="cta" href="/candidatures">
-              Candidater
+          <a class="cta" href="#books">
+              Livres
           </a>
       </div>
   </nav>
   <header>
-
+    <div>
+        <h1>"Le design est vraiment un acte de communication"</h1>
+        <p>- Donald A. Norman, The Design of Everyday Things</p>
+    </div>
   </header>
-  <div>
-
-  </div>
+  <section class="biography">
+    <div>
+        <h2>Biographie</h2>
+        <p>
+            Donald Arthur Norman, né le 25 décembre 1935 à Jacksonville en Floride, est un psychologue cognitiviste
+            américain. Il est professeur émérite de sciences cognitives à l'Université de Californie à San Diego.
+            Il est surtout connu pour ses travaux sur la conception des objets du quotidien et l'ergonomie cognitive.
+            Il est l'auteur de plusieurs ouvrages de vulgarisation scientifique, dont le plus célèbre est The Design
+            of Everyday Things (1988) qui a été traduit en français sous le titre "Psychologie de l'objet".
+        </p>
+        <a href="biographie.html" class="cta">
+            En savoir plus
+        </a>
+    </div>
+    <img src="assets/image/donNorman_profil.webp" alt="donNorman profil image">
+  </section>
+  <section class="books">
+      <h2>Ses ouvrages</h2>
+      <div class="books-gallery">
+          <a href="https://amzn.eu/d/4eYdpeI" target="_blank" class="item">
+              <img src="assets/image/books/the_design_of_everyday_things.jpg" alt="The Design of Everyday Things book cover">
+          </a>
+          <a href="https://amzn.eu/d/7sUTvIN" target="_blank" class="item">
+              <img src="assets/image/books/emotional_design.webp" alt="Emotional Design book cover">
+          </a>
+          <a href="https://amzn.eu/d/3RoOrBC" target="_blank" class="item">
+              <img src="assets/image/books/design_for_a_better_world.jpg" alt="Design for a Better World book cover">
+          </a>
+      </div>
+  </section>
+  <section class="contact">
+      <h2>
+          Besoin d'avantage d'information, un problème d'édition ?
+      </h2>
+      <a href="mailto:contact@tom-mrt.fr" class="cta">
+          Contactez-moi
+      </a>
+  </section>
+  <footer>
+      <a href="" class="githubLink">
+          <img src="assets/icons/github.png" alt="GitHub Logo">
+      </a>
+      <p>
+          © 2025 - Tom Mrt
+      </p>
+      <img src="" alt="">
+  </footer>
 </body>
 </html>
