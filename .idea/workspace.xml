@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a36f24a-2985-48e1-a0cf-f553835c627a" name="Changes" comment="Created Navbar">
-      <change afterPath="$PROJECT_DIR$/biography.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/biography.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/books.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/contact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/hero.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="5a36f24a-2985-48e1-a0cf-f553835c627a" name="Changes" comment="Added missing logo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/hero.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/hero.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +50,7 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Volumes/SSD-Externe/IUT/donNorman&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Volumes/SSD-Externe/IUT/xpodata&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -89,7 +82,11 @@
       <workItem from="1735315655543" duration="5095000" />
       <workItem from="1736892189328" duration="1197000" />
       <workItem from="1737307161091" duration="3726000" />
-      <workItem from="1737322600039" duration="3608000" />
+      <workItem from="1737322600039" duration="4661000" />
+      <workItem from="1737961278383" duration="33000" />
+      <workItem from="1737961586594" duration="139000" />
+      <workItem from="1737964144585" duration="1580000" />
+      <workItem from="1739800038136" duration="337000" />
     </task>
     <task id="LOCAL-00001" summary="Created Navbar">
       <option name="closed" value="true" />
@@ -99,7 +96,39 @@
       <option name="project" value="LOCAL" />
       <updated>1735320353847</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Edited website">
+      <option name="closed" value="true" />
+      <created>1737327229226</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737327229226</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added assets">
+      <option name="closed" value="true" />
+      <created>1737327282796</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737327282796</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Modified footer.css">
+      <option name="closed" value="true" />
+      <created>1737327993477</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737327993477</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added missing logo">
+      <option name="closed" value="true" />
+      <created>1737328264365</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737328264365</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +136,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created Navbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Navbar" />
+    <MESSAGE value="Edited website" />
+    <MESSAGE value="Added assets" />
+    <MESSAGE value="Modified footer.css" />
+    <MESSAGE value="Added missing logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added missing logo" />
   </component>
 </project>

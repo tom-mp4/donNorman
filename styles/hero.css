@@ -4,7 +4,7 @@ header {
     width: 100vw;
     height: 100vh;
 
-    background-image: url("../assets/image/donNorman_bg.jpg");
+    background-image: url("../assets/image/affiche.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -23,6 +23,5 @@ header div {
 }
 
 header div h1 {
-    text-align: center;
     width: 60%;
 }
